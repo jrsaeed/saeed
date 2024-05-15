@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mahmoud Saeed | Head of Affiliate at LikeCard</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #e3f2fd; /* Baby blue background */
+            color: #333;
+        }
+        header {
+            background-color: #90caf9;
+            padding: 20px;
+            text-align: center;
+            color: white;
+        }
+        .container {
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #0d47a1;
+        }
+        .about, .projects, .skills, .contact {
+            margin-bottom: 40px;
+        }
+        footer {
+            background-color: #64b5f6;
+            padding: 10px;
+            text-align: center;
+            color: white;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Mahmoud Saeed</h1>
+        <p>Head of Affiliate at LikeCard</p>
+    </header>
+    <div class="container">
+        <section class="about">
+            <h2>About Me</h2>
+            <p>Hello! I'm Mahmoud Saeed, currently working as the Head of Affiliate at LikeCard. With a passion for marketing and technology, I have dedicated my career to driving affiliate programs that deliver exceptional results. My journey in this field has been fueled by my commitment to excellence and innovation.</p>
+        </section>
+        <section class="projects">
+            <h2>Projects</h2>
+            <p>Here are some of the notable projects I've been a part of:</p>
+            <ul>
+                <li>Project 1: Description of project 1.</li>
+                <li>Project 2: Description of project 2.</li>
+                <li>Project 3: Description of project 3.</li>
+            </ul>
+        </section>
+        <section class="skills">
+            <h2>Skills</h2>
+            <p>Some of my key skills include:</p>
+            <ul>
+                <li>Affiliate Marketing</li>
+                <li>Digital Marketing</li>
+                <li>Project Management</li>
+                <li>Data Analysis</li>
+                <li>Team Leadership</li>
+            </ul>
+        </section>
+        <section class="contact">
+            <h2>Contact</h2>
+            <p>If you would like to get in touch, feel free to reach out:</p>
+            <ul>
+                <li>Email: mahmoud.saeed@example.com</li>
+                <li>LinkedIn: <a href="https://www.linkedin.com/in/mahmoud-saeed" target="_blank">linkedin.com/in/mahmoud-saeed</a></li>
+            </ul>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2024 Mahmoud Saeed. All rights reserved.</p>
+    </footer>
+</body>
+</html>
